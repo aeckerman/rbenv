@@ -1,0 +1,1 @@
+{"stdlib":null,"compiler":"llvm","source":{"tap":"Homebrew/homebrew","spec":"stable","path":"/usr/local/Library/Formula/ruby.rb"},"used_options":[],"HEAD":null,"poured_from_bottle":false,"built_as_bottle":false,"time":1447357729,"unused_options":["--universal","--without-readline","--with-doc","--with-tcltk","--with-gmp","--with-suffix","--with-gdbm","--with-libffi"]}
